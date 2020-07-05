@@ -9,8 +9,8 @@ JavaScript, günümüzde ki en popüler programlama dillerinden biridir.
 Programlamaya yeni başlayan kişiler için harika bir seçim olduğunu söyleyebiliriz.
 
 Çoğunlukla JavaScript'i;
-- Web siteleri
-- Web uygulamaları
+- İnternet siteleri
+- İnternet uygulamaları
 - Node.js kullanan sunucu taraflı uygulamaları oluşturmak için kullanırız.
 
 Fakat JavaScript bunlarla sınırlı değildir. Ayrıca ;
