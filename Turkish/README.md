@@ -18,11 +18,10 @@ Fakat JavaScript bunlarla sınırlı değildir. Ayrıca ;
 -   Mikrokontrolörler ve nesnelerin interneti (IoT) geliştirmeleri
 -   Akıllı saat uygulamaları geliştirmek içinde kullanabiliriz.
 
-Esasen JavaScript kullanarak bir çok işlemi gerçekleştirebiliriz. Yeni çıkan neredeyse bütün teknolojilerin bazı noktalarda JavaScript entegrasyonlarının olması da, bu dili popüler olmasını sağlayan başka bir önemli faktördür.
+Esasen JavaScript kullanarak bir çok işlemi gerçekleştirebiliriz. Yeni çıkan neredeyse bütün teknolojilerin bazı noktalarda JavaScript entegrasyonlarının olması da, bu dilin popüler olmasını sağlayan başka bir önemli faktördür.
 
 JavaScript :  
-- **High Level**: Bilgisayarın çalışırken ki detayları görmemizde gelmemize imkan tanıyan soyutlamalar sağlar. *Garbage Collector* ile herhangi bir eylem gerekmeden belleği yönetir. Bu sayede, C benzeri dillerdeki gibi belleği yönetmek yerine yazdığımız koda odaklanabilir. Bunun dışında da, oldukça güçlü değişkenler ve objelerle başa çıkmamızı sağlayan birçok *construct* sağlar.
-- 
+- **High Level**: Bilgisayarın çalışırken ki detaylarını görmezden gelmemize imkan tanıyan soyutlamalar sağlar. *Garbage Collector* ile herhangi bir eylem gerekmeden belleği yönetir. Bu sayede, C benzeri dillerdeki gibi belleği yönetmek yerine yazdığımız koda odaklanabiliriz. Bunun dışında da, oldukça güçlü değişkenler ve objelerle başa çıkmamızı sağlayan birçok *construct* sağlar.
 - **Dinamik**: Statik programlama dillerinin aksine dinamik bir programlama dili, statik dillerin *compile time*'da derlediği birçok şeyi *runtime*'da derler. Bunun avantajları olduğu kadar dezavantajları da  bulunmakla birlikte bizlere *dynamic typing*, *late binding*, *reflection*, *functional programming*, *object runtime alteration*, *closures* gibi güçlü özellikleri kullanma imkanı verir. Bu terimleri bilmiyorsanız bile endişelenmenize hiç gerek yok çünkü bu kurs sonunda öğrenmiş olacaksınız.
 
 - **Türden bağımsız değişken**: Bir değişken, türlere bağlı olmadan oluşturulabilir. Herhangi bir türü, bir değişkene yeniden atayabiliriz. Örneğin, *string* tutan bir değişkene bir *integer* değişken atayabiliriz.
@@ -30,7 +29,7 @@ JavaScript :
 - **Loosely typed**: *Strong typing* dillerin aksine, *loosely (or weakly) typed* diller bir nesnenin türünü zorla kabul ettirmez. Tür konusunda esnekliğe izin verir fakat *type safety* ve *type checking (JavaScript'in en üst noktasına inşa edilen bir konu olan TypeScript)* 'e izin vermez. 
 
 - **Interpreted**: C, Java yada Go tarzı dillerin aksine, program çalışmaya başlamadan önce derleme aşamasına ihtiyaç duymayan diller genellikle *interpreted language* olarak bilinir. Pratikte, performans sebeplerinden dolayı tarayıcılar çalıştırmadan önce JavaScript kodlarını derler fakat bu sizi şeffaflaştırmakla beraber herhangi bir ek adım bulundurmaz.
-- **Multi-Paradigm**: tJava, kullanıcıları nesne yönelimli programlamaya zorlar. Aynı şekilde C'de bizleri *imperative programlama* kullanmak zorunda bırakır. Bu tarz dillerden farklı olarak JavaScript, bizleri herhangi bir programlama paradigması kullanmaya zorlamaz. Nesne yönelim paradigmasını yada , *prototype*leri ve yeni (ES6 itibariyle) sınıf söz dizimi kurallarını (syntax) kullanarak da kod yazabilirsiniz. *First-class* fonksiyonlarıyla functional programming tarzında JavaScript yazabileceğimiz gibi, *Imperative* tarzda bile yazabiliriz.
+- **Multi-Paradigm**: Java, kullanıcılarını nesne yönelimli programlamaya zorlar. Aynı şekilde C'de bizleri *imperative programlama* kullanmak zorunda bırakır. Bu tarz dillerden farklı olarak JavaScript, bizleri herhangi bir programlama paradigması kullanmaya zorlamaz. Nesne yönelim paradigmasını, *prototype*leri ve yeni (ES6 itibariyle) sınıf söz dizimi kurallarını (syntax) kullanarak da kod yazabilirsiniz. *First-class* fonksiyonlarıyla functional programming tarzında JavaScript yazabileceğimiz gibi, *Imperative* tarzda bile yazabiliriz.
 
 Eğer merak ediyorsanız, *JavaScript'in, Java ile herhangi bir ilgisi yoktur.* Sadece kötü bir isim seçimi fakat bununla yaşamak zorundayız
 
