@@ -36,7 +36,7 @@ Eğer merak ediyorsanız, *JavaScript'in, Java ile herhangi bir ilgisi yoktur.* 
 
 ### Kitabın İçeriği
 
-1. [JavaScript Tarihi](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/A%20little%20bit%20of%20history.md)
+1. [JavaScript Tarihi](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/javascript-history/Turkish/1.JavaScript%20Tarihi.md)
 2. [Sadece JavaScript](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Just%20JavaScript.md)
 3. [JavaScript Söz Dizimine Giriş](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/A%20brief%20intro%20to%20the%20syntax%20of%20JavaScript.md)
 4. [Noktalı Virgül Kullanımı](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Semicolons.md)
