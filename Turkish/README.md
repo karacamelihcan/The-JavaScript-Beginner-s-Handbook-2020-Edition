@@ -63,3 +63,6 @@ Eğer merak ediyorsanız, *JavaScript'in, Java ile herhangi bir ilgisi yoktur.* 
 25. [Async ve Await](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Async%20and%20Await.md)
 26. [Değişken Kapsamı (Variable Scope)](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Variable%20scope.md)
 27. [Conclusion](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Conclusion.md)
+
+
+Eğer isterseniz kitabı [orijinal](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/) dilinde de takip edebilirsiniz.
