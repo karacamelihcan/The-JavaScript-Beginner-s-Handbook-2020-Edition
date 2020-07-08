@@ -40,7 +40,7 @@ Eğer merak ediyorsanız, *JavaScript'in, Java ile herhangi bir ilgisi yoktur.* 
 2. [Sadece JavaScript](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/2.Sadece%20JavaScript.md)
 3. [JavaScript Söz Dizimine Giriş](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/3.JavaScript%20S%C3%B6z%20Dizimine%20Giri%C5%9F.md)
 4. [Noktalı Virgül Kullanımı](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/4.Noktal%C4%B1%20Virg%C3%BCl%20Kullan%C4%B1m%C4%B1.md)
-5. [Değerler (Values)](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Values.md)
+5. [Değerler (Values)](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/5.De%C4%9Ferler(Values)%20.md)
 6. [Değişkenler (Variables)](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Variables.md)
 7. [Değişken Tipleri](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Types.md)
 8. [Expressions](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Expressions.md)
