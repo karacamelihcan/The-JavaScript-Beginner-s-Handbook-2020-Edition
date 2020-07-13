@@ -43,7 +43,7 @@ Eğer merak ediyorsanız, *JavaScript'in, Java ile herhangi bir ilgisi yoktur.* 
 5. [Değerler (Values)](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/5.De%C4%9Ferler(Values)%20.md)
 6. [Değişkenler (Variables)](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/6.De%C4%9Fi%C5%9Fkenler%20(Variables).md)
 7. [Değişken Tipleri](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/7.De%C4%9Fi%C5%9Fken%20Tipleri.md)
-8. [Expressions](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Expressions.md)
+8. [İfadeler (Expressions)](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/8.%C4%B0fadeler%20(Expressions).md)
 9. [İşlemler (Operators)](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Operators.md)
 10. [Öncelik Kuralları](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Precedence%20rules.md)
 11. [Karşılaştırma Operatörleri](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Comparison%20operators.md)
