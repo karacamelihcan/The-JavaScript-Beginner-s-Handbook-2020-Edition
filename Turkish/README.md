@@ -47,7 +47,7 @@ Eğer merak ediyorsanız, *JavaScript'in, Java ile herhangi bir ilgisi yoktur.* 
 9. [İşlemler (Operators)](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/9.%C4%B0%C5%9Flemler%20(Operators).md)
 10. [Öncelik Kuralları](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/10.%C3%96ncelik%20Kurallar%C4%B1.md)
 11. [Karşılaştırma Operatörleri](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Comparison%20operators.md)
-12. [Koşullu İfadeler](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Conditionals.md)
+12. [Koşullu İfadeler](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/12.Ko%C5%9Fullu%20%C4%B0fadeler.md)
 13. [Diziler (Arrays)](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Arrays.md)
 14. [Stringler](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Strings.md)
 15. [Döngüler](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Loops.md)
