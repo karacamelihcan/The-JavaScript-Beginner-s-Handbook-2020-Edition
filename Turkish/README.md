@@ -49,7 +49,7 @@ Eğer merak ediyorsanız, *JavaScript'in, Java ile herhangi bir ilgisi yoktur.* 
 11. [Karşılaştırma Operatörleri](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Comparison%20operators.md)
 12. [Koşullu İfadeler](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/12.Ko%C5%9Fullu%20%C4%B0fadeler.md)
 13. [Diziler (Arrays)](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/13.%20Diziler%20(Arrays).md)
-14. [Stringler](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Strings.md)
+14. [Stringler](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/14.Stringler.md)
 15. [Döngüler](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Loops.md)
 16. [Fonksiyonlar](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Functions.md)
 17. [Ok Fonksiyonları (Arrow functions)](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Arrow%20functions.md)
