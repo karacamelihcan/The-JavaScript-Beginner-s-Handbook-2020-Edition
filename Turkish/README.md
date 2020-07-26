@@ -51,7 +51,7 @@ Eğer merak ediyorsanız, *JavaScript'in, Java ile herhangi bir ilgisi yoktur.* 
 13. [Diziler (Arrays)](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/13.%20Diziler%20(Arrays).md)
 14. [Stringler](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/14.Stringler.md)
 15. [Döngüler](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/15.D%C3%B6ng%C3%BCler.md)
-16. [Fonksiyonlar](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Functions.md)
+16. [Fonksiyonlar](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/16.Fonksiyonlar.md)
 17. [Ok Fonksiyonları (Arrow functions)](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Arrow%20functions.md)
 18. [Objeler](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Objects.md)
 19. [Nesne Özellikleri](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Object%20Properties.md)
