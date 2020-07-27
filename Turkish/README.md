@@ -55,7 +55,7 @@ Eğer merak ediyorsanız, *JavaScript'in, Java ile herhangi bir ilgisi yoktur.* 
 17. [Ok Fonksiyonları (Arrow functions)](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/17.Ok%20Fonksiyonlar%C4%B1%20(Arrow%20Functions).md)
 18. [Nesneler](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/18.Nesneler.md)
 19. [Nesne Özellikleri](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/19.Nesne%20%C3%96zellikleri.md)
-20. [Nesne Metodları ](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Object%20Methods.md)
+20. [Nesne Metodları ](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/20.Nesne%20Metotlar%C4%B1.md)
 21. [Sınıflar](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Classes.md)
 22. [Kalıtım (Inheritance)](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Inheritance.md)
 23. [Asenkron Programlama ve Geri Dönüşler](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Asynchonous%20Programming%20and%20Callbacks.md)
