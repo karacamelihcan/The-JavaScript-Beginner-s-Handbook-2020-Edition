@@ -57,7 +57,7 @@ Eğer merak ediyorsanız, *JavaScript'in, Java ile herhangi bir ilgisi yoktur.* 
 19. [Nesne Özellikleri](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/19.Nesne%20%C3%96zellikleri.md)
 20. [Nesne Metodları ](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/20.Nesne%20Metotlar%C4%B1.md)
 21. [Sınıflar](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/21.S%C4%B1n%C4%B1flar.md)
-22. [Kalıtım (Inheritance)](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Inheritance.md)
+22. [Kalıtım (Inheritance)](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/22.Kal%C4%B1t%C4%B1m%20(Inheritance).md)
 23. [Asenkron Programlama ve Geri Dönüşler](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Asynchonous%20Programming%20and%20Callbacks.md)
 24. [Promises](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Promises.md)
 25. [Async ve Await](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Async%20and%20Await.md)
