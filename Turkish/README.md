@@ -59,7 +59,7 @@ Eğer merak ediyorsanız, *JavaScript'in, Java ile herhangi bir ilgisi yoktur.* 
 21. [Sınıflar](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/21.S%C4%B1n%C4%B1flar.md)
 22. [Kalıtım (Inheritance)](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/22.Kal%C4%B1t%C4%B1m%20(Inheritance).md)
 23. [Asenkron Programlama ve Geri Dönüşler](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Asynchonous%20Programming%20and%20Callbacks.md)
-24. [Promises](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Promises.md)
+24. [Promises](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/master/Turkish/24.Promises.md)
 25. [Async ve Await](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Async%20and%20Await.md)
 26. [Değişken Kapsamı (Variable Scope)](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Variable%20scope.md)
 27. [Conclusion](https://github.com/karacamelihcan/The-JavaScript-Beginner-s-Handbook-2020-Edition/blob/initial-create/English/Conclusion.md)
